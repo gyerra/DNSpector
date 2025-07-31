@@ -314,17 +314,6 @@ python test_dnspector.py
 python cli.py --dashboard --port 5000
 ```
 
-### Contribution Guidelines
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## What I Learned
 
 ### DNS Protocol Deep Dive
@@ -407,9 +396,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Capacity Planning**: Predictive analytics for DNS infrastructure scaling
 - **Cost Optimization**: Analyze DNS resolution costs across different providers
 
-## Support
 
-For issues, feature requests, or questions:
-- Create an issue on GitHub
-- Review the troubleshooting section
-- Check the test suite for component validation
