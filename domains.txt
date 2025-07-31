@@ -1,0 +1,10 @@
+google.com
+github.com
+stackoverflow.com
+reddit.com
+wikipedia.org
+microsoft.com
+apple.com
+amazon.com
+netflix.com
+spotify.com 
